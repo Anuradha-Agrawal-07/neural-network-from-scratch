@@ -15,8 +15,12 @@ The repository includes:
 - A small training loop using synthetic data (just to show that it runs)
 
 
-This repo does **not** include: - the real dataset I used -
-preprocessing steps - scaling, splitting or evaluation metrics
+This repo does **not** include:
+
+- The real dataset I used  
+- Preprocessing steps  
+- Scaling, splitting, or evaluation metrics
+
 
 Those were part of my own experimentation and kept separate.\
 Here I'm only sharing the model logic so the core neural network math is
