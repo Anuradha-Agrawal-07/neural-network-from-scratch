@@ -37,10 +37,13 @@ The purpose is just to demonstrate how the functions work together.
 
 ## Why I Built This
 
-This was mainly a learning exercise to understand: - how gradients
-flow - how loss changes with each update - how shapes and matrix
-operations interact - what actually happens inside a basic neural
-network
+This was mainly a learning exercise to understand:
+
+- How gradients flow  
+- How loss changes with each update  
+- How shapes and matrix operations interact  
+- What actually happens inside a basic neural network
+
 
 It helped me move beyond just calling `.fit()` from a library and
 actually see what's happening step by step.
