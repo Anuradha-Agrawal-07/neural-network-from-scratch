@@ -5,10 +5,15 @@ network built only with NumPy.\
 I made this to understand how forward pass, backpropagation and weight
 updates actually work under the hood.
 
-The repository includes: - relu and sigmoid activation functions -
-manual weight initialization - forward propagation - binary
-cross-entropy loss - backpropagation - a small training loop using
-synthetic data (just to show that it runs)
+The repository includes:
+
+- ReLU and Sigmoid activation functions  
+- Manual weight initialization  
+- Forward propagation  
+- Binary cross-entropy loss  
+- Backpropagation  
+- A small training loop using synthetic data (just to show that it runs)
+
 
 This repo does **not** include: - the real dataset I used -
 preprocessing steps - scaling, splitting or evaluation metrics
